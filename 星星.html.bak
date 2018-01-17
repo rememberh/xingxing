@@ -16,7 +16,7 @@
 	<body>
 	</body>
 </html>
-<script src="jquery-1.11.1.min.js"></script>
+<script src="js/jquery-1.11.1.min.js"></script>
 <script type="text/javascript">
 	function Star(){
 		this.ele='<div class="star"><img src="img/snow.gif"></div>'
